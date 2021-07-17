@@ -16,5 +16,5 @@ cat urls.txt | dantiburl
 
 -s   Status code to filter for. Can be set multiple times. (Default: <= 300 and >= 500)
 
-![alt text](https://imgur.com/3K3h6cY)
+![alt text](https://i.imgur.com/3K3h6cY.png)
 
