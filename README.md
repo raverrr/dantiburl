@@ -3,7 +3,7 @@
 
 Inspired by TomNomNom's antiburl, This takes URLs on stdin and checks their response status code. 
 
-<b>Usage:</b>
+<b>Usage:</b>\n
 cat urls.txt | dantiburl
 
 <b>Options</B>
