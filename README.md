@@ -8,7 +8,7 @@ Inspired by TomNomNom's antiburl, This takes URLs on stdin and checks their resp
 cat urls.txt | dantiburl
 
 
-<b>Options</B>
+<b>Options:</B>
 
 -c   Concurrent jobs (default 50)
 
