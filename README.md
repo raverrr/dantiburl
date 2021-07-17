@@ -3,12 +3,15 @@
 
 Inspired by TomNomNom's antiburl, This takes URLs on stdin and checks their response status code. 
 
-<b>Usage:</b>
+# installation
+go get -u github.com/raverrr/dantiburl
+
+# Usage:
 
 cat urls.txt | dantiburl
 
 
-<b>Options:</B>
+# Options
 
 -c   Concurrent jobs (default 50)
 
